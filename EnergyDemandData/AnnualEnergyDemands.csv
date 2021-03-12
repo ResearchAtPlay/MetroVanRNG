@@ -1,0 +1,7 @@
+Annual Energy demands for Metro Vancouver (53% of BC provincial demand). Unit: GWh,
+Net electricity excluded residential and commercial space and water heating served by electricity.,
+"Space and Water Heat are end-use demands and the sum of fossil fuel and elecricity consumed in the residential and commercial sectors, multiplied by heating technology efficiencies. Source: https://oee.nrcan.gc.ca/corporate/statistics/neud/dpa/menus/trends/comprehensive_tables/list.cfm",
+,
+Net_Electricity,24280
+Space_Heat,23529
+Water_Heat,5181
